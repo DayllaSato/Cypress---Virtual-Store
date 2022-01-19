@@ -15,6 +15,12 @@ export const ELEMENTS = {
     pais: '#id_country',
     telefone: '#phone_mobile',
     emailAlternativo: '#alias',
-    submitAccount: '#submitAccount > span'
+    submitAccount: '#submitAccount > span',
+    msg1: '.info-account',
+    msg2: '.account > span',
+    campoEmail: '#email',
+    alert: '.alert > p',
+
+    
 
 }
